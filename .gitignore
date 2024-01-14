@@ -1,0 +1,7 @@
+node_modules/
+uploads/*
+public/thumbnails
+dist/
+.env
+package-lock.json
+.adminjs
